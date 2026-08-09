@@ -1,3 +1,3 @@
 name = "Debasish "
 
-print(name)
+print(type(print))
